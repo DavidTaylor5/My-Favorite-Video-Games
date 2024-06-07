@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">TopThirty</string>
+
+    <string name="game_1_title">Spelunky 2</string>
+    <string name="game_2_title">Left For Dead 2</string>
+    <string name="game_3_title">Wii Sports Resort</string>
+    <string name="game_4_title">Pokemon Crystal</string>
+    <string name="game_5_title">Links Awakening</string>
+    <string name="game_6_title">Hades</string>
+    <string name="game_7_title">Slay the Spire</string>
+    <string name="game_8_title">Super Smash Bros</string>
+    <string name="game_9_title">Resident Evil 8</string>
+    <string name="game_10_title">Bowser\'s Inside Story</string>
+    <string name="game_11_title">Minecraft</string>
+    <string name="game_12_title">Hotline Miami</string>
+    <string name="game_13_title">Mario Super Strikers</string>
+    <string name="game_14_title">Fallout New Vegas</string>
+    <string name="game_15_title">Battlefield 1</string>
+    <string name="game_16_title">Shadow of Mordor</string>
+    <string name="game_17_title">Resident Evil 7</string>
+    <string name="game_18_title">Resident Evil 4</string>
+    <string name="game_19_title">Mario 3D World</string>
+    <string name="game_20_title">Elden Ring</string>
+    <string name="game_21_title">Forza 6</string>
+    <string name="game_22_title">Age of Empires</string>
+    <string name="game_23_title">Mario Kart</string>
+    <string name="game_24_title">Celeste</string>
+    <string name="game_25_title">Bioshock</string>
+    <string name="game_26_title">Fallout 4</string>
+    <string name="game_27_title">Overwatch 2</string>
+    <string name="game_28_title">Fortnite</string>
+    <string name="game_29_title">Dishonored</string>
+    <string name="game_30_title">PUBG</string>
+
+    <string name="game_1_description">
+        Like its predecessor, Spelunky 2 is a 2D platform game. In the game, the player assumes control of Ana, the daughter of the explorer from the first game, who visits the Moon in order to find her missing parents.[1] In the game, Ana must navigate deadly caves filled with hostile enemies and traps to collect treasures. When Ana dies, she will have to start from the beginning of the game and lose all of her items, and the game is rearranged through procedural generation to present new challenges and paths. Each level also features several layers which can be explored by the player.[2] New areas, such as the lava-themed Volcana, are introduced. The game features a new liquid physics system, in which fluid will flow naturally throughout a level. In addition, the game introduces new monsters, traps, and ridable mounts.[3] The game also supports four-player online multiplayer, with the introduction of both cooperative and competitive multiplayer modes.[4][5]
+    </string>
+    <string name="game_2_description">
+        Like its predecessor, Left 4 Dead 2 is a first-person shooter with a heavy emphasis on cooperative gameplay. The game presents five new campaigns, each composed of three to five smaller levels. As in the first game, each campaign is presented in menus and loading screens as a film starring the four Survivors; and features, upon completing a campaign, a faux credits screen which acts as the final scoreboard for the players and recaps certain performance statistics for the group. In every campaign, most levels involve the Survivors attempting to reach a safe zone and close the door once they are all safely inside. However, the final level in each campaign requires the Survivors to call for rescue and either survive a prolonged onslaught until rescue arrives, pass through an especially challenging gauntlet of Infected to reach an escape vehicle, or (in Dead Center and The Passing) collect and utilize fuel cans to enable their escape.[8][9]
+    </string>
+    <string name="game_3_description">
+        Wii Sports Resort is a sports video game set in a tropical resort on an archipelago named Wuhu Island.[9] The first time a player starts the game, several instructional videos will play, then the strap usage screen and the Wii MotionPlus test, and finally, the player will skydive to Wuhu Island. Twelve different sports are available to play; like the original, the sports are each played by holding the Wii Remote (and in some cases, the Nunchuk) in a manner similar to the actual sport being replicated.
+    </string>
+    <string name="game_4_description">
+        The gameplay of Pokemon Crystal is largely the same as in Gold and Silver, although it has several new features. It is the first Pokemon game to allow players to choose the sex of their character, while previously the character was always male. For the first time, Pokemon have brief animated sprites once entering battle; for example, when a Cyndaquil enters battle, the flames on its back flicker. This feature was absent in Pokemon Ruby and Sapphire and Pokemon FireRed and LeafGreen, before reappearing in Pokemon Emerald and all subsequent games. In addition, a couple of subplots were added, one involving the legendary Pokemon Suicune, featured on the front cover of the game,[1] and the other involving the Unown. The game\'s most significant addition is the Battle Tower, a new building which allows players to participate in Pokémon Stadium-like fights.[2] The Japanese edition of the game was exclusively bundled with the Mobile Adapter GB,[b] a device that allowed for connecting with other players via a mobile phone.[3]    </string>
+    <string name="game_5_description">
+        Like most games in The Legend of Zelda series, Link\'s Awakening is an action-adventure game focused on exploration and combat.[8] The majority of the game takes place from an overhead perspective.[9] The player traverses the overworld of Koholint Island while fighting monsters and exploring underground dungeons. Dungeons steadily become larger and more difficult, and feature Nightmare boss characters that the player must defeat, taking different forms in each dungeon, and getting harder to defeat each time. Success earns the player heart containers, which increase the amount of damage the player character can survive; when all of the player\'s heart containers have been emptied, the game restarts at the last doorway entered by the character. Defeating a Nightmare also earns the player one of the eight instruments necessary to complete the game.
+    </string>
+    <string name="game_6_description">
+        The player takes the role of Zagreus, the prince of the Underworld, who is trying to escape the realm to get away from his unloving father, Hades, and reach his mother Persephone in the mortal world. His quest is supported by the other Olympians, who grant him gifts to help fight the beings that protect the exit from the Underworld. He is also helped on his quest by notorious residents of the Underworld, such as Sisyphus, Eurydice, or Patroclus. The game world is divided between four main dungeons, each representing one of the regions of the Underworld, namely Tartarus, Asphodel, Elysium, and the Temple of Styx, with each new region being unlocked upon clearing the previous locale.
+    </string>
+    <string name="game_7_description">
+        Slay the Spire is a combination of roguelike-inspired progression and the gameplay of a deck-building card game. At the start of a playthrough the player selects one of four predetermined characters,[a] which sets a starting amount of health, gold, a starting relic that provides a unique ability for that character, and an initial deck of cards with basic attack and defense cards as well what potential color-coded cards tailored to that character they will see through the run.[1] The goal is to work through several levels of a spire, each level having a number of potential encounters distributed in a branching structure with a boss character at the end of the level. Encounters include monsters which vary in strength; elite enemies which offer enhanced rewards; campfires to heal or upgrade cards to more powerful versions; shopkeepers to buy cards, relics and potions from, as well as to remove cards from the deck; chests with random loot; and random choice-based encounters.
+    </string>
+    <string name="game_8_description">
+        Following its predecessors, Brawl is a platform fighter that uses a battle system unlike that of typical fighting games. Players can choose from a large selection of characters, each attempting to knock their opponents off the screen as they fight on various stages. The characters in Brawl include most of the same ones as the predecessors, such as Mario and Pikachu. Instead of using traditional health bars that start at a maximum value and lose value, Brawl characters start the game with 0\%; the value rises as they take damage, to a maximum of 999\%.[15] As a character\'s percentage increases, the character flies further back when hit. When a character is knocked beyond a stage\'s boundary and disappears from the screen, the character loses either a life, a point, or coins, depending on the mode of play. Brawl includes a function which allows players to create profiles with personalized button configurations for each control method along with their chosen username.
+    </string>
+    <string name="game_9_description">
+        Like its predecessor, Resident Evil 7: Biohazard, Resident Evil Village uses a first-person perspective. It is set in a snowy explorable Eastern European village, described as "pulled straight from the Victorian era" and much larger and more immersive than its predecessor.[1] Structures and buildings in the central village can be climbed and used to fight enemies.[1] Compared to Biohazard, the game is more action focused, with protagonist Ethan Winters now equipped with more combat skills due to military training.[2] The game\'s primary enemies, the werewolf-like Lycans, are not only agile and intelligent, but can wield weapons and attack in packs, forcing the player to rethink their strategy on whether to use sparse ammunition, use melee combat, or simply run away.[3][4][5] Similar to Resident Evil 4 (2005), makeshift barricades can be used to fend off enemies.
+    </string>
+    <string name="game_10_description">
+        Gameplay alternates among three characters: Mario and Luigi, who are controlled together on the bottom screen using A and B, and Bowser, who is controlled on the top screen with X and Y. There are two main worlds: the main overworld, which is played in an overhead view, and the world inside Bowser\'s body, which is a 2D side-scrolling world. Although most of the game is played with Mario and Luigi inside Bowser and Bowser himself in the overworld, Mario and Luigi also have opportunities to visit the overworld via warp pipes as the game progresses. Bowser can travel between different areas of the overworld using portals known as "Chakroads", which are hidden under objects that only Bowser can destroy, such as trees and boulders. Gameplay typically alternates between controlling the brothers and controlling Bowser. Some sections involve direct interaction between the brothers and Bowser.
+    </string>
+    <string name="game_11_description">
+        Minecraft is a 3D sandbox game that has no required goals to accomplish, allowing players a large amount of freedom in choosing how to play the game. However, there is an achievement system, known as advancements in the Java Edition of the game, and trophies on the PlayStation ports. Gameplay is in the first-person perspective by default, but players have the option of a third-person perspective. The game world is composed of rough 3D objects—mainly cubes and fluids, and commonly called blocks—representing various materials, such as dirt, stone, ores, tree trunks, water, and lava. The core gameplay revolves around picking up and placing these objects. These blocks are arranged in a 3D grid, while players can move freely around the world. Players can mine blocks and then place them elsewhere, enabling them to build things. Many commentators have described the game\'s physics system as unrealistic. The game also contains a material called redstone, which can be used to make primitive mechanical devices, electrical circuits, and logic gates, allowing for the construction of many complex systems.
+    </string>
+    <string name="game_12_description">
+        Hotline Miami is divided into several chapters, each of which is further broken down into several stages. At the start of most chapters, "Jacket" wakes up in his apartment and listens to cryptic messages on his answering machine. These messages tell him to perform an arbitrary task at a certain location, which in each case is inferred as a euphemism for killing every person at that location (e.g., "giving VIPs at a hotel a great stay" or "taking care of a pest infestation"). Prior to commencing a mission, the player is asked to select an animal mask to wear, each of which—with the exception of "Richard", the default rooster mask—provides a unique benefit, such as faster movement or a starting weapon.
+    </string>
+    <string name="game_13_description">
+        The gameplay of Mario Strikers Charged is similar to that of the Super Mario Strikers with the player playing an exaggerated and arcade-like version of the game of football. A new element for the game is the powerful shot possible is the "Mega Strike", which only the captain can perform and accounts for a varying number of points ranging from three to six. In addition, sidekicks are able to perform a special shot—known as a "Skillshot"—that occurs if sufficiently charged and results in the character releasing a shot that is either able to paralyze or bypass the goalkeeper. Defensively, characters not in possession can hit others with or without the ball, although doing so to others without it will give the opposing team an item.
+    </string>
+    <string name="game_14_description">
+        While gameplay from Fallout 3 was retained for Fallout: New Vegas, Obsidian Entertainment worked upon providing the game with improvements upon existing elements while introducing some old and new features to the series. Some improvements and new features are included. Combat is improved upon, with the V.A.T.S. system being updated with several new V.A.T.S.-specific attacks, and a number of kill animations being made for several of the game\'s melee weapons. The response and accuracy given from weapons were also improved. Players can use the iron sights on firearms, with the exception of certain larger guns and some energy weapons.[11][12][13][14] The third-person perspective in the game was redesigned to be more "over the shoulder" than it had been in Fallout 3. The Character Creation section of the game was refined to take less time than Fallout 3, with players able to skip the tutorials and proceed across the Wasteland once their character is set up. The option to make any last minute changes to their character occurs when the player steps beyond the boundaries of the starting location of Goodsprings.     </string>
+    <string name="game_15_description">
+        Similar to its predecessors, Battlefield 1 is a first-person shooter game that emphasizes teamwork. It is set in the period of World War I, and is inspired by historical events. Players can make use of World War I weapons, including bolt-action rifles, submachine guns, automatic and semi-automatic rifles, artillery, flamethrowers, and poison gas to combat opponents.[6][7][8][9] Melee combat was reworked, with DICE introducing new melee weapons such as sabres, trench clubs, and shovels into the game. These melee weapons were divided into three groups: heavy, medium and light.[10] Players can also take control of various armored vehicles, including light and heavy tanks, armored trucks, cars, torpedo boats, bi- and tri-plane aircraft, an armored train, reconnaissance vehicles, a dreadnought and an M-class zeppelin, as well as ride horses into battle.[11] Destructible environments and weapon customization, features present in the previous games, returned in Battlefield 1 and are more dynamic.[12]
+    </string>
+    <string name="game_16_description">
+Middle earth Shadow of Mordor is a third-person open world action adventure video game, where the player controls a ranger by the name of Talion who seeks revenge on the forces of Sauron after his family, consisting of his wife and son, are killed by those that lead them. Players can travel across locations in the game through parkour, riding monsters, or accessing Forge Towers, which serve as fast travel points. Though Talion is mortally felled in the game\'s introduction, the wraith of the Elven Lord Celebrimbor is able to use his power to keep Talion alive, along with gifting him wraith-like abilities. Missions in the game feature main story missions that follow Talion\'s quest for revenge, side missions that involve following Gollum to find artifacts that are tied to Celebrimbor\'s past, missions to free the human slaves that have been captured by the Uruk armies and forced to work for Sauron, and additional quests to help forge new abilities for Talion\'s sword, bow, and dagger. The player also has the freedom to pursue side quests and roam around Mordor, with special activities to collect specific flora or to hunt certain creatures, or to find old artifacts or Elvish seals.
+    </string>
+    <string name="game_17_description">
+        The player controls Ethan Winters from a first-person perspective as he searches a derelict estate for his missing wife.[1][2] Although Ethan is a civilian with few combat skills,[3] he is able to arm himself with a variety of weapons including handguns, shotguns, flamethrowers, explosives and chainsaws[4] against the estate\'s residents, the Baker family, as well as humanoid fungal creatures known as the "Molded" and mutated insects. He can block attacks to reduce damage. Various sections of the game are spent being pursued by members of the Baker family, who, if engaged in combat, can only be temporarily incapacitated. However, these encounters are avoidable by means of stealth, or running away.[5][6]
+    </string>
+    <string name="game_18_description">
+        The player controls the protagonist, Leon S. Kennedy, from a third-person perspective. Departing significantly from the series\' previous games, the gameplay focuses on action and shootouts with fewer survival horror elements. The camera is placed behind Leon and zooms in for an over-the-shoulder view when aiming a weapon, or a first-person view when aiming with a sniper rifle.[3] There is no crosshair for firearms; instead, every firearm has a laser sight. Unlike previous games where players can only shoot straight, up, or down, players have more options. For example, shots to the feet can cause enemies to stumble, and shots to the arms can make them drop their weapons. Players can also shoot down projectiles like thrown axes or scythes.[4]
+    </string>
+    <string name="game_19_description">
+        The game levels play similarly to those of Super Mario 3D Land, which combine the free-roaming gameplay of the Super Mario franchise\'s 3D games with the mechanics of its 2D side-scrollers, including a timer and a level-ending flagpole.[5] Up to four concurrent players may control player characters, including Mario, Luigi, Princess Peach, Toad, and the unlockable Rosalina. Similar to their appearances in Super Mario Bros. 2,[6] each of the characters possesses unique abilities and controls differently: Mario has balanced running speed and jump height; Luigi jumps higher and falls slower, but has slightly lower traction; Peach can jump and briefly float through the air, but runs slowly; Toad runs the fastest, but cannot jump as high and falls faster; Rosalina can use the spin attack move as seen in the Super Mario Galaxy games, but has the slowest running speed.[7] The player can select any of the five characters to use before beginning a level, and up to four players may explore the same level simultaneously, sharing from a pool of lives. Players are also able to pick up, carry, and throw each other.[8]
+    </string>
+    <string name="game_20_description">
+        Elden Ring is an action role-playing game played in a third person perspective, with gameplay focusing on combat and exploration. It features elements similar to those found in other games developed by FromSoftware, such as the Dark Souls series, Bloodborne, and Sekiro Shadows Die Twice. Set in an open world, players are allowed to freely explore the Lands Between and its six main areas; these locations range from Limgrave, an area featuring grassy plains and ancient ruins, to Caelid, a wasteland home to undead monsters.[1] Open world areas are explorable using the character\'s mount, Torrent, as the primary mode of transportation, along with the ability to fast travel outside of combat. Throughout the game, players encounter non-player characters (NPCs) and enemies, including the demigods who rule each main area and serve as the game\'s main bosses.[2][3] Aside from open world areas, Elden Ring also features hidden dungeons, such as catacombs, tunnels, and caves where players can fight bosses and gather helpful items.[4]
+    </string>
+    <string name="game_21_description">
+        Forza Motorsport 6 is a racing video game which allows the player to race many vehicles across different racing disciplines and courses. Vehicle handling is simulation-based, meaning that each vehicle behaves as closely to its real-world counterpart as possible. Courses are primarily digital representations of real tracks, with 22 tracks based on real locations, and four being fictional. Races consist of up to 24 vehicles competing, and weather elements such as rain can affect vehicle handling.
+    </string>
+    <string name="game_22_description">
+        Age of Empires II is a real-time strategy game that focuses on building towns, gathering resources, and creating armies to defeat opponents. Players conquer rival towns and empires as they advance one of 13 civilizations through four "Ages": the Dark Age, the Feudal Age, the Castle Age (representing the High Middle Ages), and the Imperial Age (reminiscent of the Renaissance)—a 1,000-year timeframe.[4] Advancing to a new Age unlocks new units, structures, and technologies, but players must first build certain buildings from their current age and then pay a sum of resources (typically food and gold).[5]: 31 
+    </string>
+    <string name="game_23_description">
+        Mario Kart Wii is a kart racing game featuring single-player and multiplayer modes. The players control one of many selectable Mario franchise characters and participate in races or battles using go-karts or bikes on courses thematically based on locations from the Mario franchise. During gameplay, the player views the action from a third-person perspective that tracks the player from behind their kart.[2]    </string>
+    <string name="game_24_description">
+        Celeste is a two-dimensional platform game.[1] The player controls Madeline, who has the ability to run, jump, climb walls for a limited time,[2][3] jump off walls, and dash in mid-air in one of eight directions.[4][5] Certain objects grant Madeline additional abilities.[6] Green gems refill her dash ability[4] without the need to land on safe ground.[7][3] Other objects including "dream blocks" that transport her from one side to another when dashed into,[8] moving blocks, which can transfer their momentum to Madeline when jumped off of,[9] and bubbles that move when dashed into and platforms that only activate after Madeline dashes.[3][10] The difficulty can be lowered through the use of an "Assist Mode", which provides accessbility options including a lowered game speed, unlimited use of the dash ability,[2][7] or the option to grant Madeline invincibility.[10][11]
+    </string>
+    <string name="game_25_description">
+        BioShock takes place in Rapture,[5][6] a large underwater city planned and constructed in the 1940s by individualist business magnate Andrew Ryan, who wanted to create a utopia for society\'s elite to flourish outside of government control and "petty morality". This philosophy resulted in remarkable advances in the arts and sciences, which included the discovery of "ADAM": a potent gene-altering substance which is created by a species of sea slug on the ocean floor. ADAM soon led to the creation of "Plasmids", mutagenic serums that grant users super-human powers (such as telekinesis and pyrokinesis). To protect and isolate Rapture, Ryan outlawed any contact with the surface world.[7]
+    </string>
+    <string name="game_26_description">
+        Fallout 4 is an action role-playing game set in an open world environment. Gameplay is similar to that of Fallout 3 and Fallout: New Vegas, the two previous primary iterations in the series. But unlike the previous two titles, the gun-gameplay was handled by id Software.[2] Returning features include a camera that can switch between a first-person and third-person perspective. Fallout 4 introduces features including a layered armor system, base-building, a dialogue system featuring 111,000 lines of dialogue,[3] and a crafting system which implements every lootable object in the game. Enemies such as Mole Rats, Raiders, Super Mutants, Deathclaws, and Feral Ghouls return along with the companion Dogmeat.[4]
+    </string>
+    <string name="game_27_description">
+        Overwatch 2 is a hero shooter, where players are split into two teams and select a "hero" from a roster of 35 characters. Characters are organized into a "damage" class, responsible for offensive efforts; a "support" class, responsible for healing and buffing; and a "tank" class, responsible for the team\'s protection. Each character has a unique set of skills, made up of active, passive, and ultimate abilities. Overwatch 2, like its predecessor, primarily centers on player versus player (PvP) combat across several different modes and maps, and includes both casual and ranked competitive matches.
+    </string>
+    <string name="game_28_description">
+        Fortnite Battle Royale is a player-versus-player game for up to 100 players, allowing one to play alone, in a duo, or in a squad (usually consisting of three or four players). Weaponless players airdrop from a "Battle Bus" that crosses the game\'s map. When they land, they must scavenge for weapons, items, resources, and even vehicles while trying to stay alive and to attack and eliminate other players. Over the course of a round, the safe area of the map shrinks down in size due to an incoming toxic storm; players outside that threshold take damage and can be eliminated if they fail to quickly evacuate. This forces remaining players into tighter spaces and encourages player encounters. The last player, duo, or squad remaining is the winner.
+    </string>
+    <string name="game_29_description">
+        Dishonored is an action-adventure game played from a first-person perspective with an emphasis on stealth action and the use of gadgets and the environment to eliminate opposing forces.[1][2][3] The game world is a series of self-contained, mission-focused areas designed for multiple avenues of exploration in terms of in-game movement and powers.[2][4] Between missions, the player is taken to a central hub called the Hound Pits pub where the player character Corvo can meet with his allies, receive mission briefings and alternate objectives, and convert recovered loot into new equipment and upgrades.[4][5] In-game areas include loading docks, royal estates, poverty-stricken streets, and a bathhouse.[6] The player can save their progress anywhere, and the game includes a checkpoint save system. Saving is disabled during combat.[7][8] The game has four difficulty levels which modify the effectiveness of health and mana (magic) potions, and enemies\' awareness, damage delivered, and responsiveness. In the easy setting, health regeneration is possible.[9]
+    </string>
+    <string name="game_30_description">
+        PUBG is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch where players fight to remain the last alive. Players can choose to enter the match solo, duo, or with a small team of up to four people. The last person or team alive wins the match.[1]
+
+Each match starts with players parachuting from a plane onto one of the eight maps which have different sizes and terrain.[2] The plane\'s flight path across the map varies with each round, requiring players to quickly determine the best time to eject and parachute to the ground.[1] Players start with no gear beyond customized clothing selections which do not affect gameplay. Once they land, players can search buildings, ghost towns and other sites to find weapons, vehicles, armor, and other equipment. These items are procedurally distributed throughout the map at the start of a match, with certain high-risk zones typically having better equipment.[1] Killed players can be looted to acquire their gear as well.[1] Players can opt to play either from the first-person or third-person perspective, each having their own advantages and disadvantages in combat and situational awareness; though server-specific settings can be used to force all players into one perspective to eliminate some advantages.[3]
+    </string>
+
+    <string name="game_1_score">8.5</string>
+    <string name="game_2_score">10</string>
+    <string name="game_3_score">8</string>
+    <string name="game_4_score">8</string>
+    <string name="game_5_score">9</string>
+    <string name="game_6_score">9</string>
+    <string name="game_7_score">10</string>
+    <string name="game_8_score">8.5</string>
+    <string name="game_9_score">9</string>
+    <string name="game_10_score">10</string>
+    <string name="game_11_score">9</string>
+    <string name="game_12_score">8.5</string>
+    <string name="game_13_score">7.5</string>
+    <string name="game_14_score">8</string>
+    <string name="game_15_score">7.5</string>
+    <string name="game_16_score">7.5</string>
+    <string name="game_17_score">8.5</string>
+    <string name="game_18_score">8</string>
+    <string name="game_19_score">8</string>
+    <string name="game_20_score">10</string>
+    <string name="game_21_score">9</string>
+    <string name="game_22_score">7.5</string>
+    <string name="game_23_score">7</string>
+    <string name="game_24_score">8</string>
+    <string name="game_25_score">7</string>
+    <string name="game_26_score">7</string>
+    <string name="game_27_score">7</string>
+    <string name="game_28_score">7</string>
+    <string name="game_29_score">8.5</string>
+    <string name="game_30_score">6.5</string>
+</resources>
